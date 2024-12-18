@@ -1,0 +1,5 @@
+/chatbot-backend
+├── package.json
+├── server.js
+└── routes
+    └── chatbot.js
